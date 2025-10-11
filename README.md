@@ -8,3 +8,5 @@ Przewodnik dostępny jest na [stronie](https://damianzareba.github.io/ZPW_Damian
 
 Technologie
 - html, css, javascript, git, github
+
+Chcesz pomóc? Super! Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
